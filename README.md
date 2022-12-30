@@ -40,3 +40,6 @@ The Ultimate Vegetable-Selling Enlightenment: Advanced Tips and Strategies
 
 The images were generated mostly using MidJourney and a few using Open AI's Dall-E 2:
 ![image](https://user-images.githubusercontent.com/3811290/210066682-149c16aa-7552-438d-bb8c-39ccf504bff8.png)
+
+## Using the API
+The service is online at [vegetablevideos.codesamples.dk/](https://vegetablevideos.codesamples.dk/) and youhere  can try it out using its [Swagger interface](https://vegetablevideos.codesamples.dk/swagger/index.html).
