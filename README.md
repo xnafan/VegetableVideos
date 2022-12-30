@@ -25,18 +25,18 @@ The titles for the videos about getting rich by selling vegetables were generate
 
 The titles are amazing: 
 
-The Insider's Guide to Selling Vegetables Like a Pro
-Vegetable-Selling Success: Achieving Your Goals with These Simple Tips
-The Vegetable Seller's Handbook: Expert Tips and Tricks
-How to Sell Veggies Like a Pro: A Comprehensive Guide
-The Insider's Guide to Successfully Selling Vegetables Online
-Veggie-Selling Tips from the Experts: What You Need to Know
-Reaching the Pinnacle of Veggie-Selling Success: Advanced Strategies
-The Vegetable Seller's Path to Nirvana: Expert Tips and Tricks
-Maximizing Your Vegetable Sales: Achieving Ultimate Success
-The Vegetable Seller's Journey to the Mountaintop: Advanced Techniques
-Vegetable-Selling Mastery: The Ultimate Guide
-The Ultimate Vegetable-Selling Enlightenment: Advanced Tips and Strategies
+The Insider's Guide to Selling Vegetables Like a Pro    
+Vegetable-Selling Success: Achieving Your Goals with These Simple Tips  
+The Vegetable Seller's Handbook: Expert Tips and Tricks  
+How to Sell Veggies Like a Pro: A Comprehensive Guide  
+The Insider's Guide to Successfully Selling Vegetables Online  
+Veggie-Selling Tips from the Experts: What You Need to Know  
+Reaching the Pinnacle of Veggie-Selling Success: Advanced Strategies  
+The Vegetable Seller's Path to Nirvana: Expert Tips and Tricks  
+Maximizing Your Vegetable Sales: Achieving Ultimate Success  
+The Vegetable Seller's Journey to the Mountaintop: Advanced Techniques  
+Vegetable-Selling Mastery: The Ultimate Guide  
+The Ultimate Vegetable-Selling Enlightenment: Advanced Tips and Strategies  
 
 The images were generated mostly using MidJourney and a few using Open AI's Dall-E 2:
 ![image](https://user-images.githubusercontent.com/3811290/210066682-149c16aa-7552-438d-bb8c-39ccf504bff8.png)
