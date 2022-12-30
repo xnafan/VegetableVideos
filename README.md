@@ -42,4 +42,5 @@ The images were generated mostly using MidJourney and a few using Open AI's Dall
 ![image](https://user-images.githubusercontent.com/3811290/210066682-149c16aa-7552-438d-bb8c-39ccf504bff8.png)
 
 ## Using the API
-The service is online at [vegetablevideos.codesamples.dk/](https://vegetablevideos.codesamples.dk/) and youhere  can try it out using its [Swagger interface](https://vegetablevideos.codesamples.dk/swagger/index.html).
+The service is online at [vegetablevideos.codesamples.dk/](https://vegetablevideos.codesamples.dk/) and here you can try it out using its [Swagger interface](https://vegetablevideos.codesamples.dk/swagger/index.html).
+*Note: the API URL returns a 404 if you try to access the root using a browser. You will need to go to one of the controllers, e.g. [https://vegetablevideos.codesamples.dk/api/videos](https://vegetablevideos.codesamples.dk/api/videos)*
