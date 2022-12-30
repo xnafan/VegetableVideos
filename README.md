@@ -6,7 +6,7 @@
 This Web API was created for people who want to learn how to use a REST API as a back-end for a UI project.  
 The solution consists of two controllers with the following methods:
 
-* VideosController
+* [VideosController](https://github.com/xnafan/VegetableVideos/blob/master/VegetableVideos/Controllers/VideosController.cs)
 ```C#
 public IEnumerable<Video>? GetAll();
 public ActionResult<Video> GetVideoById(int id);
@@ -14,7 +14,7 @@ public ActionResult<IEnumerable<Video>> SearchByPartOfName(string partOfName);
 public ActionResult<IEnumerable<Video>> GetVideosNewerThanDate(string earliestDateString);
 public ActionResult<IEnumerable<Video>> SearchByVideoLength(int minLengthInSeconds, int maxLengthInSeconds);
 ```
-* ThumbnailsController
+* [ThumbnailsController](https://github.com/xnafan/VegetableVideos/blob/master/VegetableVideos/Controllers/ThumbnailsController.cs)
 ```C#
 public ActionResult GetThumbnail(int id)
 ```
